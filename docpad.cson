@@ -1,0 +1,21 @@
+templateData:
+	site:
+		title: "Myplanet Digital Slide Deck"
+
+		url: "http://github.com/robloach/myplanetdigital-slidedeck"
+
+		description: """
+			Slide Deck for Myplanet Digital-branded presentations.
+		"""
+
+		# The website's styles
+		styles: [
+			'vendor/components-revealjs/css/reveal.css'
+			'vendor/myplanetdigital-revealjs/myplanetdigital-revealjs.css'
+		]
+
+		# The website's scripts
+		scripts: [
+			'vendor/components-revealjs/js/reveal.js'
+			'main.js'
+		]
