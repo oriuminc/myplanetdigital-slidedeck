@@ -16,4 +16,4 @@ body
 
       != content
 
-  != getBlock('scripts').add(site.scripts, {defer:"defer", async:"async"}).toHTML()
+  != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()
