@@ -2,6 +2,6 @@
 	"name": "myplanetdigital-slidedeck",
 	"version": "0.0.1",
 	"dependencies": {
-		"myplanetdigital-revealjs": "https://github.com/RobLoach/myplanetdigital-revealjs.git"
+		"myplanetdigital-revealjs": "https://github.com/myplanetdigital/myplanetdigital-revealjs.git"
 	}
 }
