@@ -1,0 +1,19 @@
+{
+  "name": "myplanetdigital-revealjs-theme",
+  "description": "Myplanet Digital slide deck theme for Reveal.js.",
+  "license": "MIT",
+  "dependencies": {
+    "components-revealjs": ">=2.6.1"
+  },
+  "main": "myplanetdigital-revealjs.css",
+  "homepage": "https://github.com/RobLoach/myplanetdigital-revealjs",
+  "_release": "903c8940f4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "903c8940f4cb822cb179ffa6cf83b9e62f22b151"
+  },
+  "_source": "https://github.com/RobLoach/myplanetdigital-revealjs.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/RobLoach/myplanetdigital-revealjs.git"
+}
